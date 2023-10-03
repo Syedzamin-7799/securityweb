@@ -15,7 +15,16 @@
 
 /*** Spinner End ***/
 
-
+.hero-section {
+    height: 100vh;
+    background-image: url("..//img/banner.webp");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
 /*** Button Start ***/
 .btn {
     font-weight: 600;
